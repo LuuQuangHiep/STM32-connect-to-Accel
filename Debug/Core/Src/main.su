@@ -1,0 +1,6 @@
+../Core/Src/main.c:7:6:I2C_Init	40	static
+../Core/Src/main.c:34:9:I2C_WriteData	40	static
+../Core/Src/main.c:72:9:I2C_Read	40	static
+../Core/Src/main.c:128:6:ADC_Init	32	static
+../Core/Src/main.c:148:10:ADC_Read	24	static
+../Core/Src/main.c:160:5:main	24	static
